@@ -15,3 +15,4 @@ class QuestionsController < ApplicationController
       end
 end
       
+# this is update 
